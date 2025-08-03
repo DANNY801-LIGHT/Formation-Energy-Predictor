@@ -2,10 +2,6 @@
 
 **FormationEnergyPredictor** is a machine learning web application that predicts the **formation energy (eV/atom)** of perovskite-based materials using their atomic and physical properties. It also classifies the material as **Stable**, **Metastable**, or **Unstable**, helping materials scientists rapidly screen novel compositions for energy, electronics, and photovoltaic applications.
 
-🌐 [Live App on Hugging Face Spaces](https://huggingface.co/spaces/DanielEmeka/FormationEnergyPredictor)
-
----
-
 ## 🔬 What It Does
 
 * Takes in a material’s **A site**, **B site**, and **X site** elements and a few physical properties
