@@ -1,4 +1,4 @@
-## 📘 Formation Energy Predictor
+##  Formation Energy Predictor
 
 **FormationEnergyPredictor** is a machine learning web application that predicts the **formation energy (eV/atom)** of perovskite-based materials using their atomic and physical properties. It also classifies the material as **Stable**, **Metastable**, or **Unstable**, helping materials scientists rapidly screen novel compositions for energy, electronics, and photovoltaic applications.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏗️ How It Was Built
+## How It Was Built
 
 This project was built using:
 
@@ -46,13 +46,13 @@ This project was built using:
 
 ---
 
-## 🧠 Use Case & Problem Solved
+##  Use Case & Problem Solved
 
-### 🚧 Challenge:
+### Challenge:
 
 In materials science, **discovering new stable compounds** is time-consuming and expensive. Researchers often simulate or synthesize hundreds of compositions before finding one that works.
 
-### ✅ This app solves:
+### This app solves:
 
 * Fast **pre-screening** of candidate perovskite materials
 * Prediction of **stability** before physical experiments or simulations
@@ -61,7 +61,7 @@ In materials science, **discovering new stable compounds** is time-consuming and
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Visit the app: [[FormationEnergyPredictor on Hugging Face](https://huggingface.co/spaces/DanielEmeka/FormationEnergyPredictor)](https://huggingface.co/spaces/DanielEmeka/FormationEnergyPredictor)
 
@@ -80,7 +80,7 @@ In materials science, **discovering new stable compounds** is time-consuming and
 
 ---
 
-## 💡 Examples to Try
+## Examples to Try
 
 | A site | B site | X site | Ionization Energy | Stability     |
 | ------ | ------ | ------ | ----------------- | ------------- |
@@ -90,7 +90,7 @@ In materials science, **discovering new stable compounds** is time-consuming and
 
 ---
 
-## 📌 Key Feature Insights
+## Key Feature Insights
 
 From the trained model, these features were found most important:
 
@@ -100,7 +100,7 @@ From the trained model, these features were found most important:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add support for ABX₂ and double perovskite structures
 * Enable batch predictions via file upload
@@ -109,7 +109,7 @@ From the trained model, these features were found most important:
 
 ---
 
-## 🧑‍🔬 Author
+## Author
 
 **Daniel Emeka**
 Physicist | Nanomaterials Researcher | Machine Learning Enthusiast
